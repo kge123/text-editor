@@ -25,3 +25,7 @@ npm run start
 ```
 
 ## Technologies 
+
+## Deployed
+
+https://rocky-mesa-83954.herokuapp.com/
